@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Aron-Kristofori
+- 👀 I’m interested in Networking and Web Technologies (HTML, JS, CSS)
+- 🌱 I’m currently learning HTML, CSS, C++
+- 📫 Message me on GitHub or contact me on my e-mail: kristofori@protonmail.com
